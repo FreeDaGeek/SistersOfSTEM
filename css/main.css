@@ -228,7 +228,7 @@ display: inline-block;
 
 .title-about{
   text-align: center;
-  margin-top: 15%;
+  margin-top: 12%;
   background-color: #745296;
   color: #dbe0e3;
   border-radius: 8px;
@@ -474,7 +474,7 @@ display: inline-block;
 ---------------*/
  .cal-title{
   text-align: center;
-  margin-top: 15%;
+  margin-top: 12%;
   padding: 5px;
   background-color: #745296;
   color: #dbe0e3;
@@ -687,6 +687,7 @@ form{
 
 /*media queries ---
 
+
 @media (min-width: 400px) {
   #wrapper { background: red; }
 }
@@ -697,6 +698,5 @@ form{
   #wrapper { background: blue; }
 }
 */
-
 
 
