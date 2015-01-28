@@ -93,6 +93,7 @@ footer{
   padding-top: 6px;
   padding-left: 25px;
   padding-right: 25px;
+  position: absolute;
   bottom:0;
   left:0;
 }
